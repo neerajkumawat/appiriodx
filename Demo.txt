@@ -1,5 +1,1 @@
-This is test demo file. test31<<<<<<< HEAD
 This is test demo file. test31
-=======
-This is test demo file. Test
->>>>>>> f128d9764836421e35d823f68c05b2b4018201ff
